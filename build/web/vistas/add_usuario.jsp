@@ -20,7 +20,7 @@
                 NOMBRE: <br>
                 <input type="text" name="txt_nombre"><br>
                 CELULAR: <br>
-                <input type="tel" name="txt_celular"><br>
+                <input type="tel"  name="txt_celular"><br>
                 CORREO: <br>
                 <input type="text" name="txt_correo"><br>
                 FECHA_NACIMIENTO: <br>

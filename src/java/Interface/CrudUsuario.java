@@ -7,10 +7,7 @@ package Interface;
 import Model.Usuario;
 import java.util.List;
 
-/**
- *
- * @author 
- */
+
 public interface CrudUsuario {
     
     public List listar();

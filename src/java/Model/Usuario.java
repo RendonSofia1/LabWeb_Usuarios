@@ -7,10 +7,6 @@ package Model;
 import java.sql.Time;
 import java.util.Date;
 
-/**
- *
- * @author ALEJANDRO DIAZ
- */
 public class Usuario {
     private String nombre; 
     private String correo;
